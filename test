@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+echo 123
+touch qf.sh
